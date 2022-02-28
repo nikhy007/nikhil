@@ -1,0 +1,14 @@
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.h1{
+    color: blue;
+ }
+.body{
+    background-image:url('Moon-cr7.jpg');
+} 
+
+
